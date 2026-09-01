@@ -1,5 +1,4 @@
-greet = int(input("Enter your name to greet : ")
+greet = input("Enter your first name: ")
+last = input("Enter your last name: ")
 
-
-
-print("Good Morning ", greet)
+print("Good Morning", greet, last)
